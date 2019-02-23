@@ -1,0 +1,15 @@
+wget
+python3-dev
+git
+curl
+rar
+unzip
+build-essential
+synaptic
+chromium-browser
+vlc
+ca-certificates
+bzip2
+awscli
+zsh
+libspatialindex-dev
