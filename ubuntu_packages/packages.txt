@@ -13,3 +13,10 @@ bzip2
 awscli
 zsh
 libspatialindex-dev
+htop
+tree
+automake
+autoconf
+httpie
+make
+tmux

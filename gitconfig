@@ -1,0 +1,8 @@
+[user]
+        email = raulpl25@gmail.com
+        name = RaulPL
+[core]
+        editor = vim
+[alias]
+	    tree = log --graph --pretty=oneline --abbrev-commit
+	    oneline = git log --oneline --decorate=short
