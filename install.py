@@ -47,6 +47,8 @@ subprocess.run(['snap', 'install', 'spotify'], check=True)
 subprocess.run(['snap', 'install', '--classic', 'atom'], check=True)
 # install slack
 subprocess.run(['snap', 'install', '--classic', 'slack'], check=True)
+# install bitwarden
+subprocess.run(['snap', 'install', 'bitwarden'], check=True)
 
 # install oh my zsh
 # subprocess.run('sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"',
