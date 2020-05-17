@@ -4,5 +4,5 @@
 [core]
         editor = vim
 [alias]
-	    tree = log --graph --pretty=oneline --abbrev-commit
-	    oneline = git log --oneline --decorate=short
+	tree = log --graph --pretty=oneline --abbrev-commit
+	oneline = git log --oneline --decorate=short
