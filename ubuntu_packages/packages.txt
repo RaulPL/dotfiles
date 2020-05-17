@@ -20,3 +20,5 @@ autoconf
 httpie
 make
 tmux
+qpdfview
+texmaker
